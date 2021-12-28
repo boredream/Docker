@@ -1,0 +1,11 @@
+.DS_Store
+
+# mysql
+mysql/data/
+
+# nginx
+nginx/cert/
+nginx/log/
+
+# redis
+redis/data/
